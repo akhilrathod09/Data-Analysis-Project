@@ -13,9 +13,6 @@ This project analyzes marketing performance data for ShopEasy, an online retail 
 - [Key Findings](#key-findings)
 - [Dashboards](#dashboards)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 
